@@ -1,0 +1,2 @@
+# Fitman
+server scala practice
